@@ -1,0 +1,21 @@
+{
+    "name": "tw-ayman",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@salla.sa/twilight-bundles": "^0.1.0",
+        "vite": "^5.0.0"
+    },
+    "author": "nabil@salla.sa",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nabiloo19/tw-ayman"
+    },
+    "private": true
+}
